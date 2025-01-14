@@ -1,47 +1,30 @@
 # Logboek
 
-**Datum:** `[dd/mm/yyyy]`  
-**Studentnaam:** `[Naam]`  
-**Groepsnaam:** `[Groep]`
+**Datum:** `14/01/2025`  
+**Studentnaam:** `Amin Mottaki`  
+**Groepsnaam:** `AMD Ryzen 5`
 
----
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 *Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).  
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
 
+- Moodmboard:  Ik en mijn groep zijn de dag begonnen met het afmaken van onze individuele moodboards. Dit heeft ongeveer 20 minuten geduurd. 
 
-> **Activiteiten:**  
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).  
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Scrumboard: Yanis en ik de scrumboard afgemaakt voor de volgende weken. 
 
----
+-Personas: We zijn allemaal begonnen aan onze 2 persona's (per persoon) en het heeft ook 20 minuten geduurd. 
+
+- Vragen voor klant: Daarna heeft Yanis vragen opgesteld voor de klant en heb ik ze doorgestuurd aan de klant want we hebben wat meer informatie nodig om zo goed mogelijk te werken. 
+
+>
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-*Instructie (1 item per dag volstaat):*  
-- Omschrijf kort je persoonlijke vooruitgang.  
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+Ik heb geleerd om als Product - Owner te werken en niet als developer (wat ik vroeger nooit heb gedaan). 
+Het heeft me geleerd om goed en duidelijk te communiceren en om al het "secretarische" deel te doen. 
+Ik heb ook geleerd om goed door te werken en nooit iets niet doen.
 
-
-> **Nieuwe skills:**  
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.  
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
-
----
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*Instructie:*  
-- Noteer in 1 zin hoe je je voelt.  
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
-
-
-> **Algmeeen gevoel:**  
-> - **"Blij"** :smiley:  
-> - **"Gefrustreerd"** :zap:
-
----
-
-*Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!*
+*Ik ben heel tevreden en blij van mezelf en van mijn teamgenoten want iedereen deed zijn taak goed en werkte goed door.
