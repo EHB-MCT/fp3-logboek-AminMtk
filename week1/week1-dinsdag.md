@@ -28,3 +28,4 @@ Ik heb ook geleerd om goed door te werken en nooit iets niet doen.
 ## 3) Wat is mijn gevoel over vandaag?
 
 *Ik ben heel tevreden en blij van mezelf en van mijn teamgenoten want iedereen deed zijn taak goed en werkte goed door.
+

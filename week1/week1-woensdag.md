@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `15/01/2025`  
+**Datum:** `16/01/2025`  
 **Studentnaam:** `Amin Mottaki`  
 **Groepsnaam:** `AMD Ryzen 5`
 
@@ -9,20 +9,18 @@
 
 *Instructie (schrijf in bullets waar je aan gewerkt hebt):*  
 
-- Concept:  We (Ik, Ralf, Yanis, Younes, Lars) zijn de dag begonnen met ons concept uit te breiden maar het was altijd niet goed. We kregen feedback en we begonnen met de feedback verder te gaan. Het nam heel veel tijd om ons idee goed uit te breiden en nu hebben we eindelijk een hee goed concept om verder te werken. 
+- Design: Ik was op zoek naar een goed design voor ons concept. Een hele process die lang heeft geduurd en nu hebben we eindelijk resultaat. De leerkracht vroeg om iets te doen die helemaal anders was dan hun stijlgids als extra. Ik heb dus de hele process design moeten doen en vragen of de anderen het goed vonden. Uiteindelijk hebben we ook en resultaat.
 
-- Figma en design: Younes, Lars en Ralf hebben verder gewerkt met de wireframe en ik was besig met het brainstorm van het design. 
-
--Personas: Ik heb 2 nieuwe personas gemaakt om beter verder te gaan met ons concept en om een oplossing te vinden. 
-
-- Design: Ik ben uiteindelijk klaar met het design van de homepage 
+Taken in groep op punten: We hebben de taken afgerond voor vrijdag om 6 uur
 
 >
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-Ik heb geleerd om goed te brainstormen voor een concept en meer kritisch daarover na te denken. Ik heb ook geleerd hoe belangrijk persona's zijn voor het uitbreiden van het concept.
+Ik heb niets nieuw geleerd maar ik ontdek altijd de power of brainstorming voor design. Heel echt leuk.
 
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-*In het begin gefrusteerd door het concept dat niet goedgekeurd werd maar uiteindelijk ging het wel goed (gelukkig)
+*Heel leuk en we zijn goed vooruit op de planning. Er was geen frustatie en het ging perfect vandaag.
+
+Eindgevoel: Blij
