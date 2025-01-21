@@ -24,3 +24,5 @@ Ik heb niets nieuw geleerd maar ik ontdek altijd de power of brainstorming voor 
 *Heel leuk en we zijn goed vooruit op de planning. Er was geen frustatie en het ging perfect vandaag.
 
 Eindgevoel: Blij
+
+😄👍

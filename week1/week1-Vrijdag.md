@@ -24,3 +24,7 @@ Ik heb geleerd om beter te presenteren en goed zich voorbereiden in groep.
 ## 3) Wat is mijn gevoel over vandaag?
 
 *Heel tevreden van mijn presentatie en onze feedback van de klant. Hij was blij met onze resultaat en wij zijn ook tevreden. Beetje frustatie door feedback over quiz en design van de leerkrachten maar ik weet dat we dit gaan oplossen dus algemeen be ik blij met wat er vandaag gebeurd is.
+
+eindgevoel: Blij
+
+😄👍

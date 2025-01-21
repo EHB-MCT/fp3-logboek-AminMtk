@@ -26,3 +26,7 @@ Ik heb geleerd om goed te brainstormen voor een concept en meer kritisch daarove
 ## 3) Wat is mijn gevoel over vandaag?
 
 *In het begin gefrusteerd door het concept dat niet goedgekeurd werd maar uiteindelijk ging het wel goed (gelukkig)
+
+Eindgevoel: blij
+
+😌

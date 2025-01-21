@@ -29,3 +29,6 @@ Ik heb ook geleerd om goed door te werken en nooit iets niet doen.
 
 *Ik ben heel tevreden en blij van mezelf en van mijn teamgenoten want iedereen deed zijn taak goed en werkte goed door.
 
+eindgevoel: heel blij
+
+😁👍

@@ -26,3 +26,5 @@ Ik heb geleerd dat ik meer kritisch moet zijn met de conceptideeen en de goede o
 In het begin was ik blij omdat we niet veel feedback hadden. Het leek dat we op het goede pas waren maar na de feedback van Johan en Joni is het weer meer zoeken. Daar lag mijn frustatie vandaag. Onze concept is nog niet goed gefinaliseerd en het is heel frustrerend want het lijkt dat we 1 week hebben verloren in iets dat nog niet genoeg is. Ik hoop echt dat morgen beter is en dat alles goed eindigd met het concept.
 
 Gevoel vandaag: Frustreerd
+
+😒
