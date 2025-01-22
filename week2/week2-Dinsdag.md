@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `20/01/2025`  
+**Datum:** `21/01/2025`  
 **Studentnaam:** `Amin Mottaki`  
 **Groepsnaam:** `AMD Ryzen 5`
 
